@@ -1,0 +1,91 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <dimen name="padding_1">1dp</dimen>
+    <dimen name="padding_2">2dp</dimen>
+    <dimen name="padding_3">3dp</dimen>
+    <dimen name="padding_5">5dp</dimen>
+    <dimen name="padding_10">10dp</dimen>
+    <dimen name="padding_15">15dp</dimen>
+    <dimen name="padding_20">20dp</dimen>
+    <dimen name="padding_25">25dp</dimen>
+    <dimen name="padding_30">30dp</dimen>
+    <dimen name="padding_50">50dp</dimen>
+    <dimen name="padding_75">75dp</dimen>
+    <dimen name="padding_100">100dp</dimen>
+
+    <dimen name="margin_1">1dp</dimen>
+    <dimen name="margin_2">2dp</dimen>
+
+    <dimen name="margin_5">5dp</dimen>
+    <dimen name="margin_8">8dp</dimen>
+
+    <dimen name="margin_10">10dp</dimen>
+    <dimen name="margin_12">12dp</dimen>
+
+    <dimen name="margin_15">15dp</dimen>
+    <dimen name="margin_25">25dp</dimen>
+    <dimen name="margin_35">35dp</dimen>
+    <dimen name="margin_50">50dp</dimen>
+
+    <dimen name="txt_caption">12sp</dimen>
+    <dimen name="txt_default">14sp</dimen>
+    <dimen name="txt_button">14sp</dimen>
+    <dimen name="txt_subheading">16sp</dimen>
+    <dimen name="txt_subheading_18">18sp</dimen>
+
+    <dimen name="txt_title">20sp</dimen>
+    <dimen name="txt_headline">24sp</dimen>
+    <dimen name="txt_display">34sp</dimen>
+
+    <dimen name="icon_size_xxsmall">10dp</dimen>
+    <dimen name="icon_size_xsmall">18dp</dimen>
+    <dimen name="icon_size_small">20dp</dimen>
+    <dimen name="icon_size_medium">30dp</dimen>
+    <dimen name="icon_size">40dp</dimen>
+    <dimen name="icon_size_large">50dp</dimen>
+    <dimen name="icon_size_xlarge">60dp</dimen>
+    <dimen name="img_size_Xsmall">30dp</dimen>
+    <dimen name="img_size_small">40dp</dimen>
+    <dimen name="img_size">60dp</dimen>
+    <dimen name="img_size_medium">75dp</dimen>
+    <dimen name="img_size_large">100dp</dimen>
+    <dimen name="img_size_xlarge">125dp</dimen>
+    <dimen name="img_size_xxlarge">150dp</dimen>
+    <dimen name="img_size_xxxlarge">200dp</dimen>
+
+    <dimen name="list_item_small">60dp</dimen>
+    <dimen name="list_item_medium_s">75dp</dimen>
+    <dimen name="list_item_medium">90dp</dimen>
+    <dimen name="list_item">100dp</dimen>
+    <dimen name="list_item_large">130dp</dimen>
+    <dimen name="list_item_xlarge">175dp</dimen>
+    <dimen name="list_item_xxlarge">200dp</dimen>
+
+    <dimen name="cv_radius">2dp</dimen>
+    <dimen name="cv_radius_large">5dp</dimen>
+    <dimen name="cv_elevation">2dp</dimen>
+    <dimen name="cv_elevation_large">4dp</dimen>
+    <dimen name="cv_elevation_xlarge">6dp</dimen>
+
+    <dimen name="btn_width">150dp</dimen>
+    <dimen name="btn_height">40dp</dimen>
+
+    <dimen name="edt_width">40dp</dimen>
+    <dimen name="edt_height">40dp</dimen>
+    <dimen name="edt_height_small">30dp</dimen>
+
+    <dimen name="separator_width">0.7dp</dimen>
+
+    <dimen name="rangebar_height">60dp</dimen>
+    <dimen name="banner_height">220dp</dimen>
+    <dimen name="indicator_width">50dp</dimen>
+    <dimen name="indicator_height">15dp</dimen>
+
+    <dimen name="webview_pbar_height">5dp</dimen>
+
+    <dimen name="dots_height">30dp</dimen>
+
+
+    <dimen name="design_fab_size_normal">90dp</dimen>
+    <dimen name="design_fab_size_mini">50dp</dimen>
+
+</resources>
